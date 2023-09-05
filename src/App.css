@@ -1,0 +1,14 @@
+.world-map {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.world-map>div>div {
+  margin: 1rem;
+  background: #fab06b;
+}
+
+.world-map>div>div:hover {
+  background: #fdc795;
+}
